@@ -20,38 +20,50 @@
 ``
 git clone https://github.com/OrdinSI/YooKassa-Payment-History-Downloader.git
 ``
+
 2. Перейдите в каталог проекта:
+
 
 ``
 cd YooKassa-Payment-History-Downloader
 ``
 3. Установите виртуальное окружение и активируйте его:
 
+
 Для Windows:
+
 
 ``
 python -m venv venv
 venv\Scripts\activate
 ``
+
 Для macOS и Linux:
+
 
 ``
 python3 -m venv venv
 source venv/bin/activate
 ``
+
 4. Установите необходимые зависимости:
+
 
 ``
 pip install -r requirements.txt
 ``
+
 5. Запустите приложение:
+
 
 ``
 python main.py
 ``
+
 ## Компиляция в исполняемый файл
 
 Для компиляции приложения в единый исполняемый файл для Windows, используйте следующую команду:
+
 
 ``
 pip install pyinstaller
