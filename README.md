@@ -53,7 +53,7 @@ python main.py
 
 Для компиляции приложения в единый исполняемый файл для Windows, используйте следующую команду:
 
-
+pip install pyinstaller
 pyinstaller --onefile --windowed main.py
 
 После компиляции, исполняемый файл `.exe` будет находиться в каталоге `dist`.
