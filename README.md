@@ -27,6 +27,7 @@ git clone https://github.com/OrdinSI/YooKassa-Payment-History-Downloader.git
 ``
 cd YooKassa-Payment-History-Downloader
 ``
+
 3. Установите виртуальное окружение и активируйте его:
 
 
